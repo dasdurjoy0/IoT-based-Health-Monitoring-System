@@ -142,10 +142,10 @@ To build a low-cost, efficient, and remotely monitored cloud-based health monito
 
 ## 📸 Screenshots 
 ## Font View
-![Front View](Images/20241109_174059.jpg)
+![Front View](images/testing3(final).jpeg)
 
 ## Circuit Diagram
-![Circuit Diagram](https://github.com/user-attachments/assets/fc315aa3-4d5e-4b53-97bf-2a72522916df)
+![Circuit Diagram](images/circuit%20diagram.png)
 
 
 ---
