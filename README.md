@@ -15,7 +15,7 @@ A DIY cloud-based portable health monitoring system that can detect someone's ox
 
 - [Durjoy Das](https://github.com/dasdurjoy0) (ID: 0692320005101033)
 - [Koshiq Chowdhury](https://github.com/Koushiq-Sourav) (ID: 0692320005101006)
-- Shantashree Bhattacherjee (ID: 0692320005101017)
+- [Shantashree Bhattacherjee](https://github.com/Shruti017) (ID: 0692320005101017)
 
 ---
 
